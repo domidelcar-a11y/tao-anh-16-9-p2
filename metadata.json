@@ -1,0 +1,5 @@
+{
+  "name": "HINH ANH 16:9",
+  "description": "An advanced tool to generate images from detailed scene descriptions using the Gemini API. It supports character references, aspect ratio control, and batch processing for storyboarding and creative projects.",
+  "requestFramePermissions": []
+}
